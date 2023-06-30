@@ -5,8 +5,11 @@ This is for ARK Survival Evolved Steam Edition. F8 to open gui.
 This wouldn't be possible without the help of https://github.com/MrReekoFTWxD and many others! Thanks 🥲
 
 
-Features | [+] = New
-ESP (Team, Enemy, Dino, Turret, Structure, Container, Supply Crate, Dead Body
+Features | [+] = New 
+ - ESP (Team, Enemy, Dino, Turret, Structure, Container, Supply Crate, Dead Body )
+ - No Recoil
+ - Fov Slider
+ - (working on infinite tek punch)
 
 
 
