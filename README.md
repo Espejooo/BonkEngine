@@ -16,8 +16,6 @@ Features | [+] = New
 
 No battleye support.
 
-Discord: https://discord.gg/5ST49p2cuF
-
 
 Known Bugs
 - Crash on open inventory with esp enabled
